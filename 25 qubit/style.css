@@ -1,0 +1,1502 @@
+header {
+  height: 60px;
+  width: 100%;
+}
+header .Qubit {
+  position: absolute;
+  height: 24px;
+  left: 2.08%;
+  right: 92.43%;
+  top: 20px;
+  font-size: 25px;
+}
+header ul {
+  position: absolute;
+  height: 14px;
+  left: 250px;
+  gap: 70px;
+  font-family: "Roboto";
+  font-size: 14px;
+  color: #1C1C1C;
+  list-style: none;
+  display: flex;
+}
+header .Book {
+  position: absolute;
+  height: 40px;
+  width: 170px;
+  left: 1150px;
+  background: #6F2CFF;
+  border-radius: 20px;
+  border: 0px;
+  color: #ffffff;
+}
+header .Book:hover {
+  color: pink;
+  background-color: #ffffff;
+}
+header .Log {
+  position: absolute;
+  height: 14px;
+  left: 90%;
+  font-family: "Roboto";
+  font-size: 14px;
+  color: #1C1C1C;
+}
+
+nav {
+  background-image: url(./Rectangle.svg);
+  height: 755px;
+  width: 100%;
+}
+nav .Driving {
+  position: absolute;
+  left: 100px;
+  top: 200px;
+  font-family: "Roboto";
+  font-size: 15px;
+  color: #000000;
+}
+nav .Make {
+  position: absolute;
+  height: 61px;
+  left: 100px;
+  top: 200px;
+  font-family: "Roboto";
+  font-size: 54px;
+  color: #000000;
+}
+nav .More {
+  position: absolute;
+  height: 54px;
+  left: 100px;
+  top: 250px;
+  font-family: "Roboto";
+  font-size: 54px;
+  color: #6F2DFF;
+}
+nav .Hundreds {
+  position: absolute;
+  height: 120px;
+  left: 100px;
+  top: 370px;
+  font-family: "Roboto";
+  font-size: 18px;
+  color: #000000;
+}
+nav .Enter {
+  position: absolute;
+  height: 45px;
+  width: 200px;
+  left: 100px;
+  top: 500px;
+  background: #FFFFFF;
+  border: 1px solid #6F2CFF;
+  border-radius: 27.5px 0px 0px 27.5px;
+  text-align: center;
+  align-items: center;
+}
+nav .Book_1 {
+  position: absolute;
+  height: 49px;
+  left: 305px;
+  width: 150px;
+  top: 500px;
+  background: #6F2CFF;
+  border-radius: 0px 27.5px 27.5px 0px;
+  border: 0px;
+  color: #FFFFFF;
+}
+nav .Book_1:hover {
+  color: pink;
+  background-color: #ffffff;
+}
+
+.wicons {
+  width: 99%;
+  height: 100px;
+  position: absolute;
+  top: 820px;
+}
+.wicons .Trusted {
+  position: absolute;
+  width: 264px;
+  height: 30px;
+  left: calc(50% - 132px);
+  top: 0px;
+  font-family: "Roboto";
+  font-size: 18px;
+  color: #1C1C1C;
+}
+.wicons .Frame {
+  position: absolute;
+  height: 70px;
+  left: 4.17%;
+  right: 4.17%;
+  top: 80px;
+}
+.wicons .Meet {
+  position: absolute;
+  width: 170px;
+  height: 24px;
+  left: calc(50% - 85px);
+  top: 200px;
+  font-family: "Roboto";
+  font-size: 16px;
+  color: #1C1C1C;
+}
+
+.foiz {
+  position: absolute;
+  height: 660px;
+  width: 100%;
+  left: 0%;
+  top: 1200px;
+}
+.foiz .Grow {
+  position: absolute;
+  height: 45px;
+  left: 5%;
+  right: 35.38%;
+  top: 200px;
+  font-family: "Roboto";
+  font-size: 40px;
+  color: #1C1C1C;
+}
+.foiz .foiz_1 {
+  position: absolute;
+  height: 45px;
+  left: 50%;
+  top: 20px;
+  font-family: "Roboto";
+  color: #000000;
+}
+.foiz .foiz_2 {
+  position: absolute;
+  height: 45px;
+  left: 70%;
+  top: 20px;
+  font-family: "Roboto";
+  color: #000000;
+}
+.foiz .Book_2 {
+  position: absolute;
+  height: 40px;
+  width: 200px;
+  left: 5%;
+  top: 400px;
+  border: 0px;
+  color: #FFFFFF;
+  font-size: 15px;
+  background: #6F2CFF;
+  border-radius: 30px;
+}
+.foiz ins {
+  position: absolute;
+  height: 14px;
+  left: 20%;
+  top: 410px;
+  font-family: "Roboto";
+  font-size: 14px;
+  color: #000000;
+}
+.foiz .PwC {
+  position: absolute;
+  height: 30px;
+  left: 5%;
+  top: 500px;
+  font-family: "Roboto";
+  font-size: 15px;
+  color: #000000;
+}
+
+.way {
+  width: 99%;
+  position: absolute;
+  height: 537px;
+  height: 500px;
+  top: 1699px;
+}
+.way .Qubit_1 {
+  position: absolute;
+  width: 387px;
+  height: 45px;
+  left: calc(50% - 193.5px + 0.5px);
+  top: 100px;
+  font-family: "Roboto";
+  font-size: 40px;
+  color: #000000;
+}
+.way .The {
+  position: absolute;
+  width: 248px;
+  height: 30px;
+  left: calc(50% - 124px);
+  top: 200px;
+  font-family: "Roboto";
+  font-size: 18px;
+  color: #000000;
+}
+.way .search {
+  position: absolute;
+  width: 320px;
+  height: 194px;
+  left: calc(50% - 160px - 392px);
+  top: 300px;
+}
+.way .search .Frame {
+  position: absolute;
+  height: 50px;
+  left: 42.19%;
+  right: 42.19%;
+}
+.way .search .More {
+  position: absolute;
+  width: 116px;
+  height: 23px;
+  left: calc(50% - 58px);
+  top: 50px;
+  font-family: "Roboto";
+  text-align: center;
+  font-size: 19px;
+  color: #000000;
+}
+.way .search .Learn {
+  position: absolute;
+  width: 316px;
+  height: 45px;
+  left: calc(50% - 158px);
+  top: 80px;
+  font-family: "Roboto";
+  font-size: 15px;
+  text-align: center;
+  color: #000000;
+}
+.way .user {
+  position: absolute;
+  width: 320px;
+  height: 194px;
+  left: calc(50% - 160px);
+  top: 300px;
+}
+.way .user .Group {
+  position: absolute;
+  left: 45%;
+  right: 15.5%;
+  top: 4.02%;
+  bottom: 6.24%;
+}
+.way .user .More {
+  position: absolute;
+  width: 116px;
+  height: 23px;
+  left: calc(50% - 58px);
+  top: 50px;
+  font-family: "Roboto";
+  text-align: center;
+  font-size: 19px;
+  color: #000000;
+}
+.way .user .Learn {
+  position: absolute;
+  width: 316px;
+  height: 45px;
+  left: calc(50% - 158px);
+  top: 80px;
+  font-family: "Roboto";
+  font-size: 15px;
+  text-align: center;
+  color: #000000;
+}
+.way .efect {
+  position: absolute;
+  width: 320px;
+  height: 194px;
+  left: calc(50% - 160px + 392px);
+  top: 300px;
+}
+.way .efect .Frame_1 {
+  position: absolute;
+  height: 50px;
+  left: 42.19%;
+  right: 42.19%;
+}
+.way .efect .More {
+  position: absolute;
+  width: 116px;
+  height: 23px;
+  left: calc(50% - 58px);
+  top: 50px;
+  font-family: "Roboto";
+  text-align: center;
+  font-size: 19px;
+  color: #000000;
+}
+.way .efect .Learn {
+  position: absolute;
+  width: 316px;
+  height: 45px;
+  left: calc(50% - 158px);
+  top: 80px;
+  font-family: "Roboto";
+  font-size: 15px;
+  text-align: center;
+  color: #000000;
+}
+
+.container {
+  position: absolute;
+  height: 1064.25px;
+  left: 0%;
+  right: 0%;
+  top: 2200px;
+}
+.container .All {
+  position: absolute;
+  width: 492px;
+  height: 45px;
+  left: calc(50% - 246px);
+  top: -2px;
+  font-family: "Roboto";
+  font-size: 40px;
+  color: #000000;
+}
+.container .By {
+  position: absolute;
+  width: 783px;
+  height: 30px;
+  left: calc(50% - 391.5px + 0.5px);
+  top: 71px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+  color: #000000;
+}
+.container .Rectangle {
+  position: absolute;
+  height: 560px;
+  left: 15%;
+  right: 0%;
+  top: 200px;
+}
+.container .btn_1 {
+  position: absolute;
+  height: 40px;
+  left: 30%;
+  width: 190px;
+  top: 900px;
+  border: 0px;
+  text-align: center;
+  color: #FFFFFF;
+  background: #6F2CFF;
+  border-radius: 30px;
+}
+.container .btn_2 {
+  position: absolute;
+  height: 40px;
+  left: 45%;
+  width: 190px;
+  top: 900px;
+  border: 0px;
+  text-align: center;
+  color: #FFFFFF;
+  background: #6F2CFF;
+  border-radius: 30px;
+}
+.container button:hover {
+  background-color: #FFFFFF;
+  color: #6F2CFF;
+}
+
+.What {
+  position: absolute;
+  height: 845px;
+  left: 0%;
+  right: 0%;
+  top: 3300.25px;
+}
+.What .What_1 {
+  position: absolute;
+  width: 545px;
+  height: 45px;
+  left: calc(50% - 272.5px + 0.5px);
+  top: 93.75px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+  color: #000000;
+}
+
+.What_2 {
+  position: absolute;
+  width: 276px;
+  height: 170px;
+  left: calc(50% - 138px - 371px);
+  top: 250px;
+}
+.What_2 .Frame {
+  width: 50px;
+  height: 50px;
+  margin-left: 40%;
+}
+.What_2 .Product {
+  width: 266px;
+  height: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  text-align: center;
+  color: #000000;
+}
+.What_2 .Use {
+  width: 265px;
+  height: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: center;
+  color: #1C1C1C;
+}
+
+.What_3 {
+  position: absolute;
+  width: 276px;
+  height: 170px;
+  left: 600px;
+  top: 250px;
+}
+.What_3 .Frame {
+  width: 50px;
+  height: 50px;
+  margin-left: 40%;
+}
+.What_3 .Product {
+  width: 266px;
+  height: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  text-align: center;
+  color: #000000;
+}
+.What_3 .Use {
+  width: 265px;
+  height: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: center;
+  color: #1C1C1C;
+}
+
+.What_4 {
+  position: absolute;
+  width: 276px;
+  height: 170px;
+  left: 950px;
+  top: 250px;
+}
+.What_4 .Frame {
+  width: 50px;
+  height: 50px;
+  margin-left: 40%;
+}
+.What_4 .Product {
+  width: 266px;
+  height: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  text-align: center;
+  color: #000000;
+}
+.What_4 .Use {
+  width: 265px;
+  height: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: center;
+  color: #1C1C1C;
+}
+
+.What_5 {
+  position: absolute;
+  width: 276px;
+  height: 170px;
+  left: 250px;
+  top: 550px;
+}
+.What_5 .Frame {
+  width: 50px;
+  height: 50px;
+  margin-left: 40%;
+}
+.What_5 .Product {
+  width: 266px;
+  height: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  text-align: center;
+  color: #000000;
+}
+.What_5 .Use {
+  width: 265px;
+  height: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: center;
+  color: #1C1C1C;
+}
+
+.What_6 {
+  position: absolute;
+  width: 276px;
+  height: 170px;
+  left: 600px;
+  top: 550px;
+}
+.What_6 .Frame {
+  width: 50px;
+  height: 50px;
+  margin-left: 40%;
+}
+.What_6 .Product {
+  width: 266px;
+  height: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  text-align: center;
+  color: #000000;
+}
+.What_6 .Use {
+  width: 265px;
+  height: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: center;
+  color: #1C1C1C;
+}
+
+.What_7 {
+  position: absolute;
+  width: 276px;
+  height: 170px;
+  left: 950px;
+  top: 550px;
+}
+.What_7 .Frame {
+  width: 50px;
+  height: 50px;
+  margin-left: 40%;
+}
+.What_7 .Product {
+  width: 266px;
+  height: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  text-align: center;
+  color: #000000;
+}
+.What_7 .Use {
+  width: 265px;
+  height: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: center;
+  color: #1C1C1C;
+}
+
+.Trusted {
+  position: absolute;
+  height: 751px;
+  left: 0%;
+  right: 0%;
+  top: 4200px;
+}
+.Trusted .Trusted_1 {
+  position: absolute;
+  width: 507px;
+  height: 45px;
+  left: calc(50% - 253.5px + 0.5px);
+  top: 77.75px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  color: #000000;
+}
+.Trusted .Vector {
+  position: absolute;
+  left: 10%;
+  top: 50%;
+  bottom: -86.95%;
+}
+.Trusted .Vector_1 {
+  position: absolute;
+  left: 90%;
+  top: 50%;
+  bottom: -86.95%;
+  rotate: 180deg;
+}
+.Trusted .Rectangle {
+  position: absolute;
+  height: 438px;
+  left: 15%;
+  width: 320px;
+  top: 200px;
+  border-radius: 7px;
+}
+.Trusted .Rectangle .Rectangle_1 {
+  margin-top: 0px;
+}
+.Trusted .Rectangle .Rectangle_2 {
+  margin-top: 40px;
+  margin-left: 80px;
+}
+.Trusted .Rectangle .Rectangle_3 {
+  margin-left: 10px;
+  text-align: center;
+  margin-top: 20px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #6F2CFF;
+}
+.Trusted .Rectangle_4 {
+  position: absolute;
+  height: 438px;
+  left: 40%;
+  width: 320px;
+  top: 200px;
+  border-radius: 7px;
+}
+.Trusted .Rectangle_4 .Rectangle_1 {
+  margin-top: 0px;
+}
+.Trusted .Rectangle_4 .Rectangle_2 {
+  margin-top: 40px;
+  margin-left: 80px;
+}
+.Trusted .Rectangle_4 .Rectangle_3 {
+  margin-left: 10px;
+  text-align: center;
+  margin-top: 20px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #6F2CFF;
+}
+.Trusted .Rectangle_5 {
+  position: absolute;
+  height: 438px;
+  left: 65%;
+  width: 320px;
+  top: 200px;
+  border-radius: 7px;
+}
+.Trusted .Rectangle_5 .Rectangle_1 {
+  margin-top: 0px;
+}
+.Trusted .Rectangle_5 .Rectangle_2 {
+  margin-top: 40px;
+  margin-left: 130px;
+}
+.Trusted .Rectangle_5 .Rectangle_3 {
+  margin-left: 10px;
+  text-align: center;
+  margin-top: 20px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #6F2CFF;
+}
+
+.container_2 {
+  width: 99%;
+  height: 1000px;
+  position: absolute;
+  top: 5000px;
+}
+.container_2 .We {
+  position: absolute;
+  width: 574px;
+  height: 45px;
+  left: calc(50% - 287px);
+  top: -100px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+  color: #000000;
+}
+.container_2 .Learn {
+  position: absolute;
+  width: 567px;
+  height: 30px;
+  left: calc(50% - 283.5px + 0.5px);
+  top: 20px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: #000000;
+}
+.container_2 .div_1 {
+  position: absolute;
+  height: 199px;
+  left: 15%;
+  width: 460px;
+  top: 100px;
+  background: #17002E;
+  border-radius: 8px 10px 10px 8px;
+}
+.container_2 .div_1 .Frame_1 {
+  position: absolute;
+  height: 50px;
+  left: 5%;
+  right: 87.5%;
+  top: 10px;
+}
+.container_2 .div_1 .Beauty {
+  position: absolute;
+  height: 25px;
+  left: 23%;
+  right: 34%;
+  top: 10px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #FFFFFF;
+}
+.container_2 .div_1 .Discover {
+  position: absolute;
+  height: 44px;
+  left: 5%;
+  right: 5%;
+  top: 67.75px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+.container_2 .div_1 .Explore {
+  position: absolute;
+  height: 15px;
+  left: 5%;
+  right: 2.79%;
+  top: 150px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  color: #FFFFFF;
+}
+.container_2 .div_2 {
+  position: absolute;
+  height: 199px;
+  left: 50%;
+  width: 460px;
+  top: 100px;
+  background: #17002E;
+  border-radius: 8px 10px 10px 8px;
+}
+.container_2 .div_2 .Frame_1 {
+  position: absolute;
+  height: 50px;
+  left: 5%;
+  right: 87.5%;
+  top: 10px;
+}
+.container_2 .div_2 .Beauty {
+  position: absolute;
+  height: 25px;
+  left: 23%;
+  right: 34%;
+  top: 10px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #FFFFFF;
+}
+.container_2 .div_2 .Discover {
+  position: absolute;
+  height: 44px;
+  left: 5%;
+  right: 5%;
+  top: 67.75px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+.container_2 .div_2 .Explore {
+  position: absolute;
+  height: 15px;
+  left: 5%;
+  right: 2.79%;
+  top: 150px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  color: #FFFFFF;
+}
+.container_2 .div_3 {
+  position: absolute;
+  height: 199px;
+  left: 15%;
+  width: 460px;
+  top: 350px;
+  background: #17002E;
+  border-radius: 8px 10px 10px 8px;
+}
+.container_2 .div_3 .Frame_1 {
+  position: absolute;
+  height: 50px;
+  left: 5%;
+  right: 87.5%;
+  top: 10px;
+}
+.container_2 .div_3 .Beauty {
+  position: absolute;
+  height: 25px;
+  left: 23%;
+  right: 34%;
+  top: 10px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #FFFFFF;
+}
+.container_2 .div_3 .Discover {
+  position: absolute;
+  height: 44px;
+  left: 5%;
+  right: 5%;
+  top: 67.75px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+.container_2 .div_3 .Explore {
+  position: absolute;
+  height: 15px;
+  left: 5%;
+  right: 2.79%;
+  top: 150px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  color: #FFFFFF;
+}
+.container_2 .div_4 {
+  position: absolute;
+  height: 199px;
+  left: 50%;
+  width: 460px;
+  top: 350px;
+  background: #17002E;
+  border-radius: 8px 10px 10px 8px;
+}
+.container_2 .div_4 .Frame_1 {
+  position: absolute;
+  height: 50px;
+  left: 5%;
+  right: 87.5%;
+  top: 10px;
+}
+.container_2 .div_4 .Beauty {
+  position: absolute;
+  height: 25px;
+  left: 23%;
+  right: 34%;
+  top: 10px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #FFFFFF;
+}
+.container_2 .div_4 .Discover {
+  position: absolute;
+  height: 44px;
+  left: 5%;
+  right: 5%;
+  top: 67.75px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+.container_2 .div_4 .Explore {
+  position: absolute;
+  height: 15px;
+  left: 5%;
+  right: 2.79%;
+  top: 150px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  color: #FFFFFF;
+}
+.container_2 .div_5 {
+  position: absolute;
+  height: 199px;
+  left: 15%;
+  width: 460px;
+  top: 600px;
+  background: #17002E;
+  border-radius: 8px 10px 10px 8px;
+}
+.container_2 .div_5 .Frame_1 {
+  position: absolute;
+  height: 50px;
+  left: 5%;
+  right: 87.5%;
+  top: 10px;
+}
+.container_2 .div_5 .Beauty {
+  position: absolute;
+  height: 25px;
+  left: 23%;
+  right: 34%;
+  top: 10px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #FFFFFF;
+}
+.container_2 .div_5 .Discover {
+  position: absolute;
+  height: 44px;
+  left: 5%;
+  right: 5%;
+  top: 67.75px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+.container_2 .div_5 .Explore {
+  position: absolute;
+  height: 15px;
+  left: 5%;
+  right: 2.79%;
+  top: 150px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  color: #FFFFFF;
+}
+.container_2 .div_6 {
+  position: absolute;
+  height: 199px;
+  left: 50%;
+  width: 460px;
+  top: 600px;
+  background: #17002E;
+  border-radius: 8px 10px 10px 8px;
+}
+.container_2 .div_6 .Frame_1 {
+  position: absolute;
+  height: 50px;
+  left: 5%;
+  right: 87.5%;
+  top: 10px;
+}
+.container_2 .div_6 .Beauty {
+  position: absolute;
+  height: 25px;
+  left: 23%;
+  right: 34%;
+  top: 10px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #FFFFFF;
+}
+.container_2 .div_6 .Discover {
+  position: absolute;
+  height: 44px;
+  left: 5%;
+  right: 5%;
+  top: 67.75px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+.container_2 .div_6 .Explore {
+  position: absolute;
+  height: 15px;
+  left: 5%;
+  right: 2.79%;
+  top: 150px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  color: #FFFFFF;
+}
+
+.container_3 {
+  position: absolute;
+  height: 627px;
+  left: 0%;
+  right: 0%;
+  top: 5900px;
+}
+.container_3 .connected {
+  position: absolute;
+  height: 45px;
+  left: 10%;
+  top: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+  color: #17002E;
+}
+.container_3 .The {
+  position: absolute;
+  height: 30px;
+  left: 10%;
+  right: 0.34%;
+  top: 130px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 30px;
+  color: #000000;
+}
+.container_3 .See {
+  position: absolute;
+  height: 40px;
+  left: 10%;
+  width: 200px;
+  top: 300px;
+  border: 0px;
+  color: #FFFFFF;
+  background: #6F2CFF;
+  border-radius: 30px;
+}
+.container_3 .Rectangle {
+  position: absolute;
+  height: 567px;
+  left: 55%;
+  width: 567px;
+  top: -0.25px;
+}
+.container_3 button:hover {
+  color: #6F2CFF;
+  background-color: #FFFFFF;
+}
+
+.container_4 {
+  position: absolute;
+  height: 329px;
+  left: 0%;
+  width: 1510px;
+  top: 6500px;
+  background-size: 1510px;
+  background-repeat: no-repeat;
+  background: url(./Rectangle\ \(8\).png);
+}
+.container_4 .Book {
+  position: absolute;
+  width: 376px;
+  height: 45px;
+  left: calc(50% - 188px);
+  top: -2.25px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+  color: #FFFFFF;
+}
+.container_4 input {
+  position: absolute;
+  width: 268px;
+  height: 45px;
+  left: calc(50% - 134px - 93px);
+  top: calc(50% - 22.5px - 0.25px);
+  text-align: center;
+  background: #FFFFFF;
+  border-radius: 27.5px 0px 0px 27.5px;
+}
+.container_4 button {
+  position: absolute;
+  height: 50px;
+  left: 803px;
+  width: 187px;
+  top: 142px;
+  border: 0px;
+  color: #FFFFFF;
+  background: #6F2CFF;
+  border-radius: 0px 27.5px 27.5px 0px;
+}
+
+.container_5 .Rectangle {
+  position: absolute;
+  height: 182px;
+  left: 45.14%;
+  right: 45.14%;
+  top: 6856px;
+}
+.container_5 .Connect {
+  position: absolute;
+  width: 127px;
+  height: 45px;
+  left: calc(50% - 63.5px + 0.5px);
+  top: 7100px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 45px;
+  color: #1C1C1C;
+}
+.container_5 .icons {
+  position: absolute;
+  top: 7200px;
+  left: 45%;
+  height: 50px;
+  width: 150px;
+  gap: 20px;
+  list-style: none;
+  display: flex;
+}
+
+.footer {
+  position: absolute;
+  height: 1000px;
+  left: 0%;
+  right: 0%;
+  top: 7300px;
+  background: #20003C;
+}
+.footer .ul_1 {
+  position: absolute;
+  height: 21px;
+  left: 10%;
+  top: 10%;
+  font-size: 14px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  list-style: none;
+  gap: 10px;
+  line-height: 21px;
+  color: #FFFFFF;
+}
+.footer .ul_2 {
+  position: absolute;
+  height: 19px;
+  left: 25%;
+  top: 22%;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  list-style: none;
+  line-height: 18px;
+  color: #FFFFFF;
+}
+.footer .ul_3 {
+  position: absolute;
+  height: 37px;
+  left: 40%;
+  top: 10%;
+  list-style: none;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #FFFFFF;
+}
+.footer .ul_4 {
+  position: absolute;
+  height: 19px;
+  left: 55%;
+  top: 10%;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #FFFFFF;
+  list-style: none;
+}
+.footer .ul_5 {
+  position: absolute;
+  height: 19px;
+  left: 65%;
+  top: 10%;
+  list-style: none;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #FFFFFF;
+}
+.footer .Working {
+  position: absolute;
+  height: 21px;
+  left: 80%;
+  top: 10%;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  color: #FFFFFF;
+}
+.footer .Qubit {
+  font-size: 30px;
+  position: absolute;
+  left: 50%;
+  top: 70%;
+  color: #FFFFFF;
+}
+.footer .All {
+  font-size: 15px;
+  position: absolute;
+  left: 45%;
+  top: 80%;
+  color: #FFFFFF;
+}
+.footer .vector {
+  position: absolute;
+  left: 5%;
+  top: 90%;
+  bottom: 0%;
+}
+
+@media screen and (max-width: 600px) {
+  header {
+    height: 40px;
+    width: 600px;
+    position: absolute;
+    left: 0px;
+  }
+  header .Qubit {
+    position: absolute;
+    height: 24px;
+    left: 2.08%;
+    right: 92.43%;
+    top: 15px;
+    font-size: 18px;
+  }
+  header ul {
+    position: absolute;
+    left: 50px;
+    gap: 20px;
+    top: 15px;
+    font-family: "Roboto";
+    font-size: 9px;
+    color: #1C1C1C;
+    list-style: none;
+    display: flex;
+  }
+  header .Book {
+    position: absolute;
+    height: 20px;
+    width: 70px;
+    left: 470px;
+    top: 20px;
+    background: #6F2CFF;
+    border-radius: 20px;
+    border: 0px;
+    color: #ffffff;
+    font-size: 8px;
+  }
+  header .Book:hover {
+    color: pink;
+    background-color: #ffffff;
+  }
+  header .Log {
+    position: absolute;
+    height: 14px;
+    left: 93%;
+    top: 15px;
+    font-family: "Roboto";
+    font-size: 8px;
+    color: #1C1C1C;
+  }
+  nav {
+    background-image: url(./Rectangle.svg);
+    height: 300px;
+    width: 97%;
+    background-size: 97%;
+    position: absolute;
+    top: 60px;
+  }
+  nav .Driving {
+    position: absolute;
+    left: 50px;
+    top: 80px;
+    font-family: "Roboto";
+    font-size: 8px;
+    color: #000000;
+  }
+  nav .Make {
+    position: absolute;
+    height: 61px;
+    left: 50px;
+    top: 80px;
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #000000;
+  }
+  nav .More {
+    position: absolute;
+    height: 54px;
+    left: 50px;
+    top: 100px;
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #6F2DFF;
+  }
+  nav .Hundreds {
+    position: absolute;
+    height: 120px;
+    left: 50px;
+    top: 150px;
+    font-family: "Roboto";
+    font-size: 8px;
+    color: #000000;
+  }
+  nav .Enter {
+    position: absolute;
+    height: 20px;
+    width: 100px;
+    left: 50px;
+    top: 220px;
+    background: #FFFFFF;
+    border: 1px solid #6F2CFF;
+    border-radius: 27.5px 0px 0px 27.5px;
+    text-align: center;
+    align-items: center;
+    font-size: 10px;
+  }
+  nav .Book_1 {
+    position: absolute;
+    height: 24px;
+    left: 155px;
+    width: 90px;
+    top: 220px;
+    background: #6F2CFF;
+    border-radius: 0px 27.5px 27.5px 0px;
+    border: 0px;
+    color: #FFFFFF;
+    font-size: 10px;
+  }
+  .button:hover {
+    color: pink;
+    background-color: #ffffff;
+  }
+  .wicons {
+    width: 600px;
+    height: 80px;
+    position: absolute;
+    top: 350px;
+    left: 0px;
+  }
+  .wicons .Trusted {
+    position: absolute;
+    width: 264px;
+    height: 30px;
+    left: 220px;
+    top: 10px;
+    font-family: "Roboto";
+    font-size: 10px;
+    color: #1C1C1C;
+  }
+  .wicons .Frame {
+    position: absolute;
+    height: 70px;
+    left: 0%;
+    right: 4.17%;
+    top: 30px;
+    width: 600px;
+  }
+  .wicons .Meet {
+    position: absolute;
+    width: 170px;
+    height: 24px;
+    left: 230px;
+    top: 100px;
+    font-family: "Roboto";
+    font-size: 10px;
+    color: #1C1C1C;
+  }
+}/*# sourceMappingURL=style.css.map */
